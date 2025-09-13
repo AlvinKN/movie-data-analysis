@@ -93,6 +93,7 @@ Wamonyolo Studios faces critical strategic questions:
 ## 5. Key Findings  
 
 ### A. Runtime Analysis  
+![Runtime Analysis](images/output_167_0.png)
 - Optimal runtime: **87–99 minutes**  
 - Strong correlation between runtime and production budget  
 - Extreme runtimes (>180 min) → diminishing returns  
