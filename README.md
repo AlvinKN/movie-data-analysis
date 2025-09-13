@@ -104,6 +104,7 @@ Wamonyolo Studios faces critical strategic questions:
 - **Budget Sweet Spot**: Mid-budget films ($10–50M) often outperform blockbusters  
 
 ### C. Genre Performance – Top 7 by Median ROI  
+![Genre Performance](images/output_180_0.png)
 1. Horror – 231.67%  
 2. Animation – 200.42%  
 3. Adventure – 167.11%  
@@ -118,6 +119,7 @@ Wamonyolo Studios faces critical strategic questions:
 - Holiday season → high revenue but strong competition  
 
 ### E. Studio Analysis  
+![Studio Analysis](images/output_193_0.png)
 - Specialized studios (**BH Tilt, MBox**) show highest ROI (689%, 488%)  
 - Major studios deliver consistent but lower returns  
 - Acquisition strategy should target **genre-specialized studios**  
